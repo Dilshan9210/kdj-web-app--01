@@ -1,2 +1,2 @@
-# kdj-web-app--01
+# kdj-web-app-01
 my first vue application
